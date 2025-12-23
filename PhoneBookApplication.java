@@ -271,7 +271,7 @@ class PhoneBookDB implements Serializable {
     }
 }
 
-class PhoneBook {
+class PhoneBookApplication {
     public static void main(String[] args) {
         System.out.println("\n");
         System.out.println("=======================================");
@@ -336,3 +336,4 @@ class PhoneBook {
         }
     }
 }
+
