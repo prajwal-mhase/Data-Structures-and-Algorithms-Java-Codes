@@ -20,7 +20,7 @@ class MyComparator implements Comparator<Node>
    }
 }
 
-class HuffmanUI
+class HuffmanCodingUserInput
 {
    public static void printCode(Node root, String s)
    {
@@ -96,3 +96,4 @@ class HuffmanUI
       s.close();
    }
 }
+
