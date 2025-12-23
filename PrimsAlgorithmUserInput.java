@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class PrimsUI
+class PrimsAlgorithmUserInput
 {
     static int NOV;
     static final int INF=9999;
@@ -61,3 +61,4 @@ class PrimsUI
         PrimMST(G);
     }
 }
+
