@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class KruskalUI
+class KruskalAlgorithmUserInput
 {
  static int INF=9999;
  static int NOV;
@@ -77,3 +77,4 @@ class KruskalUI
   KruskalMST(cost);
  }
 }
+
