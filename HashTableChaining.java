@@ -55,7 +55,7 @@ class CWOR
     }
 }
 
-class HashTableCWOR
+class HashTableChaining
 {
     public static void main(String[] args)
     {
@@ -101,3 +101,4 @@ class HashTableCWOR
         }
     }
 }
+
