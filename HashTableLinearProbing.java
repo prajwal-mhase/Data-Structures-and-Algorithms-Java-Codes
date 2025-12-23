@@ -123,7 +123,7 @@ class LP
     }
 }
 
-public class HashTableLP
+public class HashTableLinearProbing
 {
     public static void main(String[] args)
     {
@@ -187,3 +187,4 @@ public class HashTableLP
         } while(choice!=1);
     }
 }
+
