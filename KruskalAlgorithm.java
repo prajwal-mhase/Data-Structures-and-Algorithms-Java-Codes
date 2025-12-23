@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Kruskal
+class KruskalAlgorithm
 {
  static int INF=9999;
  static int NOV=4;
@@ -68,3 +68,4 @@ class Kruskal
   KruskalMST(cost);
  }
 }
+
