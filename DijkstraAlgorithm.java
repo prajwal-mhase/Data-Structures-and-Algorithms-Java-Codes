@@ -1,5 +1,5 @@
 import java.util.*;
-class Dijkstra
+class DijkstraAlgorithm
 {
     static int NOV;
     public int MinDistance(int distance[],boolean vis[])
@@ -65,3 +65,4 @@ class Dijkstra
         dijkstra.dijkstra(graph,0);
     }
 }
+
