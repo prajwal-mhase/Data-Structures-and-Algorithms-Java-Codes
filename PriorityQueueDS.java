@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PriorityQueue
+class PriorityQueueDS
 {
     int a[]=new int[100];
     int size=0;
@@ -160,3 +160,4 @@ class PriorityQueue
         }
     }
 }
+
