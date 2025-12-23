@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class Prims
+class PrimsAlgorithm
 {
     static final int INF=9999;
 
@@ -60,3 +60,4 @@ class Prims
         PrimMST(G,5);
     }
 }
+
